@@ -1,0 +1,34 @@
+Project Explanation:
+
+project introduction:
+
+*I done project on 'School System'
+*This project school system has been developed on html,css,javascript,java and sql
+*The second main purpose for developing this project to store student and staff information 
+*we can view,add,update,delete student and staff information
+
+Tools and Technologies:
+
+*programming language-java
+*web technologies-html,css,javaScript
+*database-mysql
+*ide-eclipse
+
+challanges:
+
+*compiler throw class not found exception because mysql-connector jar file is not added to the build path 
+
+Role:
+ 
+*this project has done by group of 5 members
+*i am a team member of this project
+*i write sql code for this project
+
+Time taken to complete the project:
+
+it took one month to complete the project
+
+
+
+
+
